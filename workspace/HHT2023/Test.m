@@ -1,0 +1,1 @@
+[allmode,instataneousfrequency,phase2023,A,ftemp] = eemd2('in.03.txt');
